@@ -1,0 +1,6 @@
+__d/
+_tmpdeploy/
+_copy*.ps1
+_copy*.py
+*.pyc
+__pycache__/
